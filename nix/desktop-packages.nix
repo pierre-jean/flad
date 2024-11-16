@@ -37,5 +37,5 @@
 	mullvad-vpn
 
 	# ide
-	jetbrains.rider
+	# jetbrains.rider
 ]
