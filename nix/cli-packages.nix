@@ -3,6 +3,7 @@
 [
     # nix # If not on NixOS, this is important!
     nh
+    stow
 
     (nerdfonts.override { fonts = ["JetBrainsMono"]; }) # not sure if it works if not put in fonts.packages
 
@@ -29,6 +30,7 @@
     skim
     fd
     zoxide
+    lazygit
 
     ### multiplexers ###
     tmux
