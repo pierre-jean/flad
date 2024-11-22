@@ -7,6 +7,12 @@
 
     (nerdfonts.override { fonts = ["JetBrainsMono"]; }) # not sure if it works if not put in fonts.packages
 
+    ### builds essentials ###
+    stdenv
+    gcc
+    gnumake
+    automake
+
     ### shells ###
     bash
     dash
