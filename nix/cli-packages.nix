@@ -35,7 +35,6 @@
     xplr
     skim
     fd
-    zoxide
     lazygit
 
     ### multiplexers ###
@@ -43,6 +42,7 @@
     zellij
 
     ### files ###
+    zoxide
     yazi
     xplr
     encfs
