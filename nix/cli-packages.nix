@@ -73,6 +73,7 @@
     weechat
 
     ### browser ###
+    ddgr
     w3m
     amfora
 
