@@ -61,6 +61,7 @@
     ### network ###
     curl
     wget
+    tailscale
 
     ### ai ###
     aichat
