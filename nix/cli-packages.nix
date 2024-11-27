@@ -5,7 +5,10 @@
     nh
     stow
 
-    (nerdfonts.override { fonts = ["JetBrainsMono"]; }) # not sure if it works if not put in fonts.packages
+    # Doesn't work as a profile
+    # (nerdfonts.override { fonts = ["JetBrainsMono"]; }) # not sure if it works if not put in fonts.packages
+
+    glibcLocales
 
     ### builds essentials ###
     stdenv
